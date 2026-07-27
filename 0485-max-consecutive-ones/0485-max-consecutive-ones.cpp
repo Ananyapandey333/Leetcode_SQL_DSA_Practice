@@ -10,8 +10,7 @@ public:
             }
             else{
                 count = 0;
-            }        
-            
+            }            
         }
     return max_count;    
     }
