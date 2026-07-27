@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1667-fix-names-in-a-table) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
