@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
