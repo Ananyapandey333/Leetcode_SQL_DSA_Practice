@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3875-construct-uniform-parity-array-i) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
