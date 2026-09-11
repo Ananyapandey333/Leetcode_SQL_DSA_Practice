@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
