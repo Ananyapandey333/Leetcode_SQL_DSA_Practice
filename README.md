@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0485-max-consecutive-ones) |
+| [0835-image-overlap](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
