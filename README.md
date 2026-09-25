@@ -59,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3498-reverse-degree-of-a-string) |
@@ -184,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
