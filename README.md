@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0941-valid-mountain-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1096-brace-expansion-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0115-distinct-subsequences) |
+| [0542-01-matrix](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananyapandey333/Leetcode_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
